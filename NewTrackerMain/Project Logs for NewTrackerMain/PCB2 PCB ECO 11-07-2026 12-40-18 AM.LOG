@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=OUT2 Pin=TP9-1
+Removed Pin From Net: NetName=OUT1 Pin=TP11-1
+Removed Member From Class: ClassName=U_Motor2 Member=TP9
+Removed Member From Class: ClassName=U_Motor1 Member=TP11
+Added Room: Name=U_MCU
+Added Room: Name=U_Motor1
+Added Room: Name=U_Motor2
+Added Room: Name=U_Peripherals
+Added Room: Name=U_StepperPower

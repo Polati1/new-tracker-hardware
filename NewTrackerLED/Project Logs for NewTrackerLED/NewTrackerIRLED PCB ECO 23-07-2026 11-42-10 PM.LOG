@@ -1,0 +1,362 @@
+Added Component: Designator=LED1(DIODE_VSMA1085400_VIS)
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/VSMA1094250X02-Vishay-datasheet-177116671.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/VSMA1094250X02-Vishay-datasheet-177116671.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://sigma.octopart.com:80/rohs_statement/Vishay-company-15.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://sigma.octopart.com:80/rohs_statement/Vishay-company-15.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Country of Origin"; Value = "Mainland China"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Harmonized Tariff Schedule (HTS) Code"; Value = "8541.40.20.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Introduction Date"; Value = "2024-04-30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "VSMA1094250X02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=3.36, 10=2.456, 100=1.9169 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "362"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "751-VSMA1094250X02CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "28°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "940nm"; VariantName = "[No Variations]"
+Added Component: Designator=LED2(DIODE_VSMA1085400_VIS)
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/VSMA1094250X02-Vishay-datasheet-177116671.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/VSMA1094250X02-Vishay-datasheet-177116671.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://sigma.octopart.com:80/rohs_statement/Vishay-company-15.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://sigma.octopart.com:80/rohs_statement/Vishay-company-15.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Country of Origin"; Value = "Mainland China"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Harmonized Tariff Schedule (HTS) Code"; Value = "8541.40.20.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Introduction Date"; Value = "2024-04-30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "VSMA1094250X02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=3.36, 10=2.456, 100=1.9169 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "362"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "751-VSMA1094250X02CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "28°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "940nm"; VariantName = "[No Variations]"
+Added Component: Designator=LED3(DIODE_VSMA1085400_VIS)
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/VSMA1094250X02-Vishay-datasheet-177116671.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/VSMA1094250X02-Vishay-datasheet-177116671.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://sigma.octopart.com:80/rohs_statement/Vishay-company-15.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://sigma.octopart.com:80/rohs_statement/Vishay-company-15.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Country of Origin"; Value = "Mainland China"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Harmonized Tariff Schedule (HTS) Code"; Value = "8541.40.20.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Introduction Date"; Value = "2024-04-30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "VSMA1094250X02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=3.36, 10=2.456, 100=1.9169 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "362"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "751-VSMA1094250X02CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "28°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "940nm"; VariantName = "[No Variations]"
+Added Component: Designator=LED4(DIODE_VSMA1085400_VIS)
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/VSMA1094250X02-Vishay-datasheet-177116671.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/VSMA1094250X02-Vishay-datasheet-177116671.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://sigma.octopart.com:80/rohs_statement/Vishay-company-15.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://sigma.octopart.com:80/rohs_statement/Vishay-company-15.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Country of Origin"; Value = "Mainland China"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Harmonized Tariff Schedule (HTS) Code"; Value = "8541.40.20.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Introduction Date"; Value = "2024-04-30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "VSMA1094250X02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=3.36, 10=2.456, 100=1.9169 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "362"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "751-VSMA1094250X02CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "28°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "940nm"; VariantName = "[No Variations]"
+Added Component: Designator=LED5(DIODE_VSMA1085400_VIS)
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/VSMA1094250X02-Vishay-datasheet-177116671.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/VSMA1094250X02-Vishay-datasheet-177116671.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://sigma.octopart.com:80/rohs_statement/Vishay-company-15.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://sigma.octopart.com:80/rohs_statement/Vishay-company-15.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Country of Origin"; Value = "Mainland China"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Harmonized Tariff Schedule (HTS) Code"; Value = "8541.40.20.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Introduction Date"; Value = "2024-04-30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "VSMA1094250X02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=3.36, 10=2.456, 100=1.9169 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "362"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "751-VSMA1094250X02CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "28°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "940nm"; VariantName = "[No Variations]"
+Added Component: Designator=LED6(DIODE_VSMA1085400_VIS)
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/VSMA1094250X02-Vishay-datasheet-177116671.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/VSMA1094250X02-Vishay-datasheet-177116671.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://sigma.octopart.com:80/rohs_statement/Vishay-company-15.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://sigma.octopart.com:80/rohs_statement/Vishay-company-15.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Country of Origin"; Value = "Mainland China"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Harmonized Tariff Schedule (HTS) Code"; Value = "8541.40.20.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Introduction Date"; Value = "2024-04-30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "VSMA1094250X02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=3.36, 10=2.456, 100=1.9169 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "362"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "751-VSMA1094250X02CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "28°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "940nm"; VariantName = "[No Variations]"
+Added Component: Designator=LED7(DIODE_VSMA1085400_VIS)
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/VSMA1094250X02-Vishay-datasheet-177116671.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/VSMA1094250X02-Vishay-datasheet-177116671.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://sigma.octopart.com:80/rohs_statement/Vishay-company-15.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://sigma.octopart.com:80/rohs_statement/Vishay-company-15.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Country of Origin"; Value = "Mainland China"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Harmonized Tariff Schedule (HTS) Code"; Value = "8541.40.20.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Introduction Date"; Value = "2024-04-30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "VSMA1094250X02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=3.36, 10=2.456, 100=1.9169 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "362"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "751-VSMA1094250X02CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "28°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "940nm"; VariantName = "[No Variations]"
+Added Component: Designator=LED8(DIODE_VSMA1085400_VIS)
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/VSMA1094250X02-Vishay-datasheet-177116671.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/VSMA1094250X02-Vishay-datasheet-177116671.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://sigma.octopart.com:80/rohs_statement/Vishay-company-15.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://sigma.octopart.com:80/rohs_statement/Vishay-company-15.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Country of Origin"; Value = "Mainland China"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Harmonized Tariff Schedule (HTS) Code"; Value = "8541.40.20.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Introduction Date"; Value = "2024-04-30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "VSMA1094250X02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=3.36, 10=2.456, 100=1.9169 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "362"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "751-VSMA1094250X02CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "28°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "940nm"; VariantName = "[No Variations]"
+Added Component: Designator=LED9(DIODE_VSMA1085400_VIS)
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/VSMA1094250X02-Vishay-datasheet-177116671.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/VSMA1094250X02-Vishay-datasheet-177116671.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://sigma.octopart.com:80/rohs_statement/Vishay-company-15.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://sigma.octopart.com:80/rohs_statement/Vishay-company-15.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Country of Origin"; Value = "Mainland China"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Harmonized Tariff Schedule (HTS) Code"; Value = "8541.40.20.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Introduction Date"; Value = "2024-04-30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "VSMA1094250X02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=3.36, 10=2.456, 100=1.9169 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "362"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "751-VSMA1094250X02CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "28°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "940nm"; VariantName = "[No Variations]"
+Added Component: Designator=LED10(DIODE_VSMA1085400_VIS)
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/VSMA1094250X02-Vishay-datasheet-177116671.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/VSMA1094250X02-Vishay-datasheet-177116671.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://sigma.octopart.com:80/rohs_statement/Vishay-company-15.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://sigma.octopart.com:80/rohs_statement/Vishay-company-15.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Country of Origin"; Value = "Mainland China"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Harmonized Tariff Schedule (HTS) Code"; Value = "8541.40.20.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Introduction Date"; Value = "2024-04-30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "VSMA1094250X02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=3.36, 10=2.456, 100=1.9169 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "362"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "751-VSMA1094250X02CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "28°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "940nm"; VariantName = "[No Variations]"
+Added Component: Designator=LED11(DIODE_VSMA1085400_VIS)
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/VSMA1094250X02-Vishay-datasheet-177116671.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/VSMA1094250X02-Vishay-datasheet-177116671.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://sigma.octopart.com:80/rohs_statement/Vishay-company-15.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://sigma.octopart.com:80/rohs_statement/Vishay-company-15.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Country of Origin"; Value = "Mainland China"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Harmonized Tariff Schedule (HTS) Code"; Value = "8541.40.20.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Introduction Date"; Value = "2024-04-30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "VSMA1094250X02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=3.36, 10=2.456, 100=1.9169 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "362"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "751-VSMA1094250X02CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "28°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "940nm"; VariantName = "[No Variations]"
+Added Component: Designator=LED12(DIODE_VSMA1085400_VIS)
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/VSMA1094250X02-Vishay-datasheet-177116671.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/VSMA1094250X02-Vishay-datasheet-177116671.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://sigma.octopart.com:80/rohs_statement/Vishay-company-15.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://sigma.octopart.com:80/rohs_statement/Vishay-company-15.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Country of Origin"; Value = "Mainland China"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Harmonized Tariff Schedule (HTS) Code"; Value = "8541.40.20.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Introduction Date"; Value = "2024-04-30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "VSMA1094250X02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=3.36, 10=2.456, 100=1.9169 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "362"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "751-VSMA1094250X02CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "28°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "940nm"; VariantName = "[No Variations]"
+Added Component: Designator=LED13(DIODE_VSMA1085400_VIS)
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/VSMA1094250X02-Vishay-datasheet-177116671.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/VSMA1094250X02-Vishay-datasheet-177116671.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://sigma.octopart.com:80/rohs_statement/Vishay-company-15.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://sigma.octopart.com:80/rohs_statement/Vishay-company-15.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Country of Origin"; Value = "Mainland China"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Harmonized Tariff Schedule (HTS) Code"; Value = "8541.40.20.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Introduction Date"; Value = "2024-04-30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "VSMA1094250X02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=3.36, 10=2.456, 100=1.9169 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "362"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "751-VSMA1094250X02CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "28°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "940nm"; VariantName = "[No Variations]"
+Added Component: Designator=LED14(DIODE_VSMA1085400_VIS)
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/VSMA1094250X02-Vishay-datasheet-177116671.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/VSMA1094250X02-Vishay-datasheet-177116671.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://sigma.octopart.com:80/rohs_statement/Vishay-company-15.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://sigma.octopart.com:80/rohs_statement/Vishay-company-15.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Country of Origin"; Value = "Mainland China"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Harmonized Tariff Schedule (HTS) Code"; Value = "8541.40.20.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Introduction Date"; Value = "2024-04-30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "VSMA1094250X02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=3.36, 10=2.456, 100=1.9169 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "362"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "751-VSMA1094250X02CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "28°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "940nm"; VariantName = "[No Variations]"
+Added Component: Designator=LED15(DIODE_VSMA1085400_VIS)
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/VSMA1094250X02-Vishay-datasheet-177116671.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/VSMA1094250X02-Vishay-datasheet-177116671.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://sigma.octopart.com:80/rohs_statement/Vishay-company-15.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://sigma.octopart.com:80/rohs_statement/Vishay-company-15.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Country of Origin"; Value = "Mainland China"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Harmonized Tariff Schedule (HTS) Code"; Value = "8541.40.20.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Introduction Date"; Value = "2024-04-30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "VSMA1094250X02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=3.36, 10=2.456, 100=1.9169 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "362"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "751-VSMA1094250X02CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "28°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "940nm"; VariantName = "[No Variations]"
+Added Component: Designator=P1(SOLDER_PAD_SMD)
+Added Component: Designator=P2(SOLDER_PAD_SMD)
+Added Component: Designator=P3(SOLDER_PAD_SMD)
+Added Component: Designator=P4(SOLDER_PAD_SMD)
+Added Component: Designator=P5(SOLDER_PAD_SMD)
+Added Component: Designator=P6(SOLDER_PAD_SMD)
+Added Pin To Net: NetName=CHAIN_A Pin=LED1-C
+Added Pin To Net: NetName=CHAIN_A Pin=P1-1
+Added Net: Name=CHAIN_A
+Added Pin To Net: NetName=CHAIN_B Pin=LED6-C
+Added Pin To Net: NetName=CHAIN_B Pin=P3-1
+Added Net: Name=CHAIN_B
+Added Pin To Net: NetName=CHAIN_C Pin=LED11-C
+Added Pin To Net: NetName=CHAIN_C Pin=P5-1
+Added Net: Name=CHAIN_C
+Added Pin To Net: NetName=L1 Pin=LED4-A1
+Added Pin To Net: NetName=L1 Pin=LED4-A2
+Added Pin To Net: NetName=L1 Pin=LED5-C
+Added Net: Name=L1
+Added Pin To Net: NetName=L2 Pin=LED3-A1
+Added Pin To Net: NetName=L2 Pin=LED3-A2
+Added Pin To Net: NetName=L2 Pin=LED4-C
+Added Net: Name=L2
+Added Pin To Net: NetName=L3 Pin=LED2-A1
+Added Pin To Net: NetName=L3 Pin=LED2-A2
+Added Pin To Net: NetName=L3 Pin=LED3-C
+Added Net: Name=L3
+Added Pin To Net: NetName=L4 Pin=LED1-A1
+Added Pin To Net: NetName=L4 Pin=LED1-A2
+Added Pin To Net: NetName=L4 Pin=LED2-C
+Added Net: Name=L4
+Added Pin To Net: NetName=L5 Pin=LED9-A1
+Added Pin To Net: NetName=L5 Pin=LED9-A2
+Added Pin To Net: NetName=L5 Pin=LED10-C
+Added Net: Name=L5
+Added Pin To Net: NetName=L6 Pin=LED8-A1
+Added Pin To Net: NetName=L6 Pin=LED8-A2
+Added Pin To Net: NetName=L6 Pin=LED9-C
+Added Net: Name=L6
+Added Pin To Net: NetName=L7 Pin=LED7-A1
+Added Pin To Net: NetName=L7 Pin=LED7-A2
+Added Pin To Net: NetName=L7 Pin=LED8-C
+Added Net: Name=L7
+Added Pin To Net: NetName=L8 Pin=LED6-A1
+Added Pin To Net: NetName=L8 Pin=LED6-A2
+Added Pin To Net: NetName=L8 Pin=LED7-C
+Added Net: Name=L8
+Added Pin To Net: NetName=L9 Pin=LED14-A1
+Added Pin To Net: NetName=L9 Pin=LED14-A2
+Added Pin To Net: NetName=L9 Pin=LED15-C
+Added Net: Name=L9
+Added Pin To Net: NetName=L10 Pin=LED13-A1
+Added Pin To Net: NetName=L10 Pin=LED13-A2
+Added Pin To Net: NetName=L10 Pin=LED14-C
+Added Net: Name=L10
+Added Pin To Net: NetName=L11 Pin=LED12-A1
+Added Pin To Net: NetName=L11 Pin=LED12-A2
+Added Pin To Net: NetName=L11 Pin=LED13-C
+Added Net: Name=L11
+Added Pin To Net: NetName=L12 Pin=LED11-A1
+Added Pin To Net: NetName=L12 Pin=LED11-A2
+Added Pin To Net: NetName=L12 Pin=LED12-C
+Added Net: Name=L12
+Added Pin To Net: NetName=VBAT_A Pin=LED5-A1
+Added Pin To Net: NetName=VBAT_A Pin=LED5-A2
+Added Pin To Net: NetName=VBAT_A Pin=P2-1
+Added Net: Name=VBAT_A
+Added Pin To Net: NetName=VBAT_B Pin=LED10-A1
+Added Pin To Net: NetName=VBAT_B Pin=LED10-A2
+Added Pin To Net: NetName=VBAT_B Pin=P4-1
+Added Net: Name=VBAT_B
+Added Pin To Net: NetName=VBAT_C Pin=LED15-A1
+Added Pin To Net: NetName=VBAT_C Pin=LED15-A2
+Added Pin To Net: NetName=VBAT_C Pin=P6-1
+Added Net: Name=VBAT_C
+Added Class: Name=Sheet2
+Added Room: Name=Sheet2

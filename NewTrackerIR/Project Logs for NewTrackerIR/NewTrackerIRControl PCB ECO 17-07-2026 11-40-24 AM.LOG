@@ -1,0 +1,10 @@
+Added Component: Designator=P3(SOLDER_PAD_SMD)
+Added Component: Designator=P5(SOLDER_PAD_SMD)
+Added Component: Designator=P7(SOLDER_PAD_SMD)
+Added Pin To Net: NetName=+VBAT Pin=P3-1
+Added Pin To Net: NetName=+VBAT Pin=P5-1
+Added Pin To Net: NetName=+VBAT Pin=P7-1
+Added Member To Class: ClassName=Sheet1 Member=Component P3 3x2.5mm SMD_SOLDER_PAD
+Added Member To Class: ClassName=Sheet1 Member=Component P5 3x2.5mm SMD_SOLDER_PAD
+Added Member To Class: ClassName=Sheet1 Member=Component P7 3x2.5mm SMD_SOLDER_PAD
+Added Room: Name=Sheet1

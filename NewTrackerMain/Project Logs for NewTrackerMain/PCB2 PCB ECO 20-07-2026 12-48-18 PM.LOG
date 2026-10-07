@@ -1,0 +1,20 @@
+Removed Member From Class: ClassName=U_StepperPower Member=A3V3
+Added Pin To Net: NetName=VS Pin=P2-2
+Added Pin To Net: NetName=SWDIO Pin=P2-3
+Added Pin To Net: NetName=SWCLK Pin=P2-4
+Added Pin To Net: NetName=NRST Pin=P2-5
+Added Pin To Net: NetName=SPI1_NSS Pin=P3-3
+Added Pin To Net: NetName=SPI1_SCK Pin=P3-4
+Added Pin To Net: NetName=SPI1_MISO2 Pin=P3-5
+Added Pin To Net: NetName=SPI1_MOSI Pin=P3-6
+Added Pin To Net: NetName=VS Pin=U9-6
+Added Pin To Net: NetName=SWDIO Pin=U9-7
+Added Pin To Net: NetName=SWCLK Pin=U9-9
+Added Pin To Net: NetName=NRST Pin=U9-10
+Added Pin To Net: NetName=SPI1_NSS Pin=U10-6
+Added Pin To Net: NetName=SPI1_SCK Pin=U10-7
+Added Pin To Net: NetName=SPI1_MISO2 Pin=U10-9
+Added Pin To Net: NetName=SPI1_MOSI Pin=U10-10
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(74, 134, 232)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(74, 134, 232)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(74, 134, 232)

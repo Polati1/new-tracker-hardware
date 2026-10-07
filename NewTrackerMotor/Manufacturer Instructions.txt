@@ -1,0 +1,5 @@
+1. Please use solder stencil layer in Gerber files for solder stencil
+2. The silkscreen text might be smaller in height than 1mm, please print regardless of the quality of the silkscreen.
+3. Please keep thermal pad vias on the top layer untented.
+4. Please Try to follow the stackup / impedance profile provided in the .png
+5. Please cut the circular boards out individually

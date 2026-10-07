@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=+VMOT2 Pin=TP7-1
+Removed Pin From Net: NetName=+VMOT1 Pin=TP10-1
+Removed Member From Class: ClassName=U_Motor2 Member=TP7
+Removed Member From Class: ClassName=U_Motor1 Member=TP10

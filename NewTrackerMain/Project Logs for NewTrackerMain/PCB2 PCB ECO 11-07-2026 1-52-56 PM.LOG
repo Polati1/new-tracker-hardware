@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=SPI1_NSS Pin=U10-1
+Removed Pin From Net: NetName=SPI1_SCK Pin=U10-2
+Removed Pin From Net: NetName=SPI1_MOSI Pin=U10-4
+Removed Pin From Net: NetName=SPI1_MISO2 Pin=U10-5
+Added Pin To Net: NetName=SPI1_MOSI Pin=U10-1
+Added Pin To Net: NetName=SPI1_MISO2 Pin=U10-2
+Added Pin To Net: NetName=SPI1_SCK Pin=U10-4
+Added Pin To Net: NetName=SPI1_NSS Pin=U10-5
+Change Net Name : Old Net Name=SPI1_MISO_C New Net Name=SPI1_NSS_C
+Change Net Name : Old Net Name=SPI1_MOSI_C New Net Name=SPI1_SCK_C
+Change Net Name : Old Net Name=SPI1_NSS_C New Net Name=SPI1_MOSI_C
+Change Net Name : Old Net Name=SPI1_SCK_C New Net Name=SPI1_MISO_C
+Change Net Color : Old Net Color=Aqua New Net Color=RGB(153, 0, 255)
+Change Net Color : Old Net Color=RGB(153, 0, 255) New Net Color=Aqua
+Added Room: Name=U_MCU
+Added Room: Name=U_Motor1
+Added Room: Name=U_Motor2
+Added Room: Name=U_Peripherals
+Added Room: Name=U_StepperPower

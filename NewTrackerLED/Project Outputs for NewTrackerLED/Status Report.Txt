@@ -1,0 +1,22 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [NewTrackerLED.PrjPcb]
+   Generated File[NewTrackerIRLED_Copper_Signal_Top.gbr]
+   Generated File[NewTrackerIRLED_Copper_Signal_Bot.gbr]
+   Generated File[NewTrackerIRLED_Legend_Top.gbr]
+   Generated File[NewTrackerIRLED_Legend_Bot.gbr]
+   Generated File[NewTrackerIRLED_Soldermask_Top.gbr]
+   Generated File[NewTrackerIRLED_Soldermask_Bot.gbr]
+   Generated File[NewTrackerIRLED_Paste_Top.gbr]
+   Generated File[NewTrackerIRLED_Paste_Bot.gbr]
+   Generated File[NewTrackerIRLED_Profile.gbr]
+   Generated File[NewTrackerIRLED_NPTH_Drill.gbr]
+   Generated File[NewTrackerIRLED_PTH_Drill.gbr]
+   Generated File[NewTrackerIRLED.EXTREP]
+   Generated File[NewTrackerIRLED.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 10:46:36 PM On 1/08/2026
